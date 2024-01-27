@@ -1,0 +1,1 @@
+[09:54:37.392962 -05:00] [---W---] [argeo/ardk-next/core/modules/abstract_module.cc:292] [thread 1105035] Unable to transition: Shutting-Down -> Stopped
